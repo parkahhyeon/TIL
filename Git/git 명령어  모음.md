@@ -28,7 +28,7 @@ $ git config --list
 ```
 
 ## git config —global user.name(또는 email) 설정
-|
+| 계정 
 
 ```bash
 # 현재 user.name과 user.email 확인
